@@ -1,5 +1,5 @@
 # Essays-on-topics-in-Algorithmic-Data-Analysis
-Here are some of the essay reports I wrote after critically analysing papers in specific domains of algorthmic data analysis.
+Here are some of the essay reports I wrote after critically analysing papers in specific domains of algorithmic data analysis.
 
 Topic 1: Deep Learning: The Best Thing Since Sliced Bread or Just Another Bottle of Snake Oil?
 To answer to this assignment, you must have a good understanding of machine learning techniques in general, and deep learning techniques in special.
